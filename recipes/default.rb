@@ -4,4 +4,3 @@
 #
 # Copyright:: 2017, The Authors, All Rights Reserved.
 include_recipe 'myiis::server'
-version '0.1.1'
